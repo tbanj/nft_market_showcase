@@ -14,9 +14,9 @@ const styles = {
     h1Text:
       "font-bold font-IBMPlex text-5xl sm:text-4xl minmd:text-6xl minlg:text-8xl leading-12 minmd:leading-13",
     pText:
-      "my-5 minmd:my-10 font-IBMPlex font-light text-xl minmd:text-3xl minlg:text-4xl minmd:leading-16",
+      "my-5 min md:my-10 font-IBMPlex font-light text-xl minmd:text-3xl minlg:text-4xl minmd:leading-16",
     descriptionText:
-      "my-5 minmd:my-10 font-IBMPlex font-light text-xl minmd:text-3xl minlg:text-4xl minmd:leading-16",
+      "my-5 min md: font-IBMPlex font-light text-xl minmd:text-3xl minlg:text-4xl minmd:leading-16",
     btnText: "text-white font-IBMPlex minmd:text-lg",
   
     btnPrimary:
