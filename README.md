@@ -1,15 +1,17 @@
 # tbanj nft marketplace showcase web project
 
 Live demonstrtion of the application is hosted at
-https://react-video-chat-dusky.vercel.app/
-
-Demo server url will be added soon
-![Video Chat](https://user-images.githubusercontent.com/20041050/201003295-087ef52f-a3c0-4f57-adab-3110fdb26e37.png)
+https://alabiwahab.crypto/
 
 ## Introduction
 
-This is a code repository that consist codes to build and deploy a React Video Chat Application using WebRTC.
+This is a code repository that consist codes to build a landing page for tbanj nft marketplace
 
 Setup:
 
 - run `npm i && npm start` for both client and server side to start the development server.
+
+Demo server url will be added soon
+![Video Chat](https://user-images.githubusercontent.com/20041050/206600424-b4474177-377f-46be-a96d-ea4b8de8ebc8.png)
+
+![Video Chat](https://user-images.githubusercontent.com/20041050/206600605-d7f05434-3958-4163-9b4f-31bffbeff9d1.png)
