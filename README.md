@@ -10,6 +10,10 @@ https://bafybeibj34wq2p5pilffxf77lm6lcx3n4zzmcvt3yvhlf53judtidwwoz4.ipfs.dweb.li
 
 This is a code repository that consist codes to build a landing page for tbanj nft marketplace
 
+# Click on Google Drive Icon Below to download apk
+
+[<img src="scrs/google_drive.png">](https://drive.google.com/file/d/1Ea4BVjZRI7NmqzHLlEHtXaS49QUomleO/view?usp=sharing)
+
 Setup:
 
 - run `npm i && npm start` for both client and server side to start the development server.
