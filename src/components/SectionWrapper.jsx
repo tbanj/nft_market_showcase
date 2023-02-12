@@ -55,7 +55,7 @@ const SectionWrapper = ({
 
               <Button
                 assetUrl={assets.googleDrive}
-                link="https://drive.google.com/file/d/1C-EdSZA2-xYO5qVg3mEJ5_9kkCFEPTzN/view?usp=drivesdk"
+                link="https://drive.google.com/file/d/1Ea4BVjZRI7NmqzHLlEHtXaS49QUomleO/view?usp=sharing"
                 data={{ name: "View it on", storeName: "Google Drive" }}
               />
             </section>
